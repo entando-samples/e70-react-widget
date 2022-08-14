@@ -1,0 +1,6 @@
+code: my-react-widget
+titles:
+  en: My React Widget
+  it: My React Widget
+group: free
+customUiPath: my-react-widget.ftl
